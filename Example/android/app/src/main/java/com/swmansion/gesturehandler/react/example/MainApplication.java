@@ -3,6 +3,8 @@ package com.swmansion.gesturehandler.react.example;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+//import com.reactnativecommunity.slider.BuildConfig;
+import com.reactnativecommunity.viewpager.BuildConfig;
 import com.reactnativecommunity.viewpager.RNCViewPagerPackage;
 import com.reactnativecommunity.slider.ReactSliderPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
