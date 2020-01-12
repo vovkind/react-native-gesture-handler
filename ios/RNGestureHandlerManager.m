@@ -5,7 +5,7 @@
 #import <React/RCTComponent.h>
 #import <React/RCTRootView.h>
 #import <React/RCTTouchHandler.h>
-#import <React/RCTRootContentView.h>
+#import <RCTRootContentView.h>
 
 #import "RNGestureHandlerState.h"
 #import "RNGestureHandler.h"
